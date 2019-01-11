@@ -8,6 +8,7 @@ import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 
 @Path("/hello")
+
 public class Hello{
 	
 	@GET
